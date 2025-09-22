@@ -57,7 +57,7 @@ All processing happens entirely in your browser - **no data is sent to external 
 
 ## 🌐 Live Demo
 
-**[netherguard.vercel.app](https://netherguard.es)**
+**[netherguard.es](https://netherguard.es)**
 
 Experience all tools in action - no registration required.
 
